@@ -107,9 +107,8 @@ The frontend will be available at `http://localhost:3000`.
 ## 📂 Project Structure
 
 ```
-├── backend/
-│   └── main.py           # FastAPI backend
-├── frontend/
+├── backend.py       # FastAPI backend
+├── frontend/src/
 │   └── App.jsx           # Main React frontend
 │   └── index.js          # Entry point
 ├── public/
