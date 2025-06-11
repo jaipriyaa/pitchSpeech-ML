@@ -40,8 +40,8 @@ An intelligent web app that helps users improve their spoken pitches by analyzin
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pitch-feedback-analyzer.git
-cd pitch-feedback-analyzer
+git clone https://github.com/jaipriyaa/pitchSpeech-ML.git
+cd pitchSpeech-ML
 ```
 
 ---
@@ -66,7 +66,7 @@ cd pitch-feedback-analyzer
 
 4. Run the backend:
    ```bash
-   uvicorn main:app --reload
+   uvicorn Main:app --reload
    ```
 
 The backend will be available at `http://127.0.0.1:8000`.
